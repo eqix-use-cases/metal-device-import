@@ -3,6 +3,9 @@ Equinix Metal - import existing device
 
 ## Pre-requirement
 - [Equinix Metal](https://console.equinix.com/) account 
+- [Terraform](https://www.terraform.io/)
+
+## Steps to execute
 
 - create Equinix Metal server via the portal
 - copy the device ID under - `device -> Settings -> ID` (screenshot below)
